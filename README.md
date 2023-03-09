@@ -12,10 +12,11 @@ SO THAT I can reliably retrieve them for later use
 * Node
 
 # Usage
-npm i - In your terminal 
-npm start - after installations are completed
-
+*npm i - In your terminal 
+* npm start - after installations are completed
+ 
 # Images
+![Screenshot (79)](https://user-images.githubusercontent.com/100052698/223963826-9c041da7-297f-421a-b515-55bf502e9b6a.png)
 
 
 # Contact Me
